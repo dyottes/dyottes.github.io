@@ -1,0 +1,34 @@
+
+
+
+h1 {
+	color: purple;
+	text-align: center;
+	border: 2px solid maroon
+}
+
+h2 {
+	color: brown;
+}
+
+h3 {color: blue;}
+
+h4 {color: Chocolate;}
+
+
+.school {
+	color: red;
+}
+
+
+.address {
+text-align: center;
+
+}
+
+
+
+
+.TheRest {
+	justify-content: center;
+}
